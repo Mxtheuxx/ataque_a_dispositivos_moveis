@@ -46,7 +46,7 @@ Falhas em aplicativos externos seriam os que você baixa na loja de aplicativos 
 
 •	Wi-fi públicos 
 
-Acessar wi-fi desprotegidos é uma porta aberta para ser invadido, pois em wi-fi públicos não a senhas então não existe nada que possa bloquear o hacker de ataque quem está dentro da rede. (obs: caso queira saber como funciona um ataque de redes basta olhar o artigo “Man-In-The-Middle- “)
+Acessar wi-fi desprotegidos é uma porta aberta para ser invadido, pois em wi-fi públicos não a senhas então não existe nada que possa bloquear o hacker de ataque quem está dentro da rede. (obs: caso queira saber como funciona um ataque de redes basta olhar o artigo “Man-In-The-Middle-“)
 
 •	Sim Swap
 
@@ -100,3 +100,5 @@ Engenharia social é uma forma de ataque muito usada pelos hackers, pois ela é 
 •	Malwares/0day
 
 Como já citei forma de ataque 0day e malware no texto irei deixar aqui um tópico sobre isso voltado ao ios: https://www.wired.com/story/ios-attack-watering-hole-project-zero/
+
+Espero ter passado um bom conhecimento sobre algumas formas de ataque a dispositivos moveis, abraços do Mxtheux <3 
