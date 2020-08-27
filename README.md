@@ -50,7 +50,7 @@ Acessar wi-fi desprotegidos é uma porta aberta para ser invadido, pois em wi-fi
 
 •	Sim Swap
 
-Para ocorrer esse ataque o hacker vai precisar de um cumplice que trabalha dentro de uma empresa de chip, pois o ataque se baseia no hacker acessar aplicativos autenticados utilizando o chip clonado como o por exemplo o aplicativo “WhatsApp”.
+Para ocorrer esse ataque o hacker vai precisar de um cúmplice que trabalha dentro de uma empresa de chip, pois o ataque se baseia no hacker acessar aplicativos autenticados utilizando o chip clonado como o por exemplo o aplicativo “WhatsApp”.
 
 •	Ataque via SS7
 
