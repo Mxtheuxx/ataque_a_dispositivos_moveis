@@ -67,6 +67,7 @@ Buffer Overflows traduzindo ficaria (Estouros de buffer) no caso quando um progr
 •	Engenharia Social 
 
 Engenharia social é um conjunto de práticas que exploram a falha humana, no caso a confiança dos usuários para obter informações de determinado sistema ou empresa. (Obs: Caso queira saber mais sobre engenharia social basta ir no artigo que fiz “Social_Engineering”)
+
 (Obs: Todas as formas que falei acima não irei repetir elas, pois já foram ditas, no caso eu poderia falar sobre 0day em android e ios mais como já foi dito no texto não irei repetir as formas de ataques que já foram faladas.)
 
 Android:
